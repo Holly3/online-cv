@@ -8,19 +8,19 @@ sidebar:
   education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: 胡程伟
-  tagline: Java开发工程师
+  name: 王浩然
+  tagline: 算法工程师
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: elihill@163.com
-  phone: 18795451009（微信同号）
+  email: whrmailbox2020@163.com
+  phone: 15751769188（微信同号）
   #  timezone: America/Cancun Timezone
   citizenship:
-  website: 47.116.193.176 #do not add http://
+#  website: 47.116.193.176 #do not add http://
   #  linkedin: alandoe
   #  xing: alandoe
-  github: hu245334
+  github: Holly3
 #  telegram: # add your nickname without '@' sign
 #  gitlab:
 #  bitbucket:
@@ -39,12 +39,12 @@ education:
       degree: 计算机科学与技术
       time: 2022.09 - 2025.06
       details: |
-        - 第十四届蓝桥杯软件赛省赛（江苏）Java软件开发研究生组 二等奖
-    - university: 金陵科技学院
-      degree: 软件工程
-      time: 2017.09 - 2021.06
+        - “华为杯”第五届中国研究生人工智能创新大赛 三等奖
+    - university: 南京工程学院
+      degree: 数据科学与大数据科学（嵌入式培养）
+      time: 2018.09 - 2022.06
       details: |
-        - 2021届优秀毕业生，三好学生
+        - 2022届优秀毕业生，三好学生
 
 experiences:
   title: 实习经历
