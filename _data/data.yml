@@ -75,7 +75,6 @@ projects:
 
 publications:
   title: 科研成果
-  intro: |
   paper:
     - title: 基于DBSCAN的二氧化硅融化过程中质心定位方法
       link: "#"
