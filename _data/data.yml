@@ -73,6 +73,25 @@ projects:
           - 针对传统的随机森林算法进行改进，使用验证集来去除精度较低的子树，使用谱聚类算法来选择一致性低的决策树作为子树来优化随机森林算法。
           - 使用Python的Tkinter快速的创建GUI应用程序。
 
+skills:
+  title: 专业技能
+
+  toolset:
+    - title: Python
+      tagline: "熟练掌握Python 的使用，能熟练地编写Python程序，熟练掌控Python数据结构的概念及编写使用。"
+
+    - title: Pytorch
+      tagline: "熟练深度学习框架Pytorch 的应用，能使用Pytorch搭建项目。"
+
+    - title: Deep Learning
+      tagline: "熟练MLP、CNN、RNN、Transformer等基本深度学习模型。"
+
+    - title: 实施
+      tagline: "了解Docker容器化部署技术，掌握常用命令进行项目部署。"
+
+    - title: 计算机基础
+      tagline: "熟悉基本数据结构，如链表、栈、队列、哈希表、树、图等。熟悉机器学习算法，如线性回归、聚类、SVM、随机森林等。"
+
 publications:
   title: 科研成果
   papers:
@@ -110,6 +129,8 @@ publications:
         link: https://max.book118.com/html/2024/0120/6000211212010035.shtm
         authors: 宗海,朱文白,陈俊,陈庆,杨琬琪,王浩然,杨明,王池社（已受理）
         conference: 发明专利
+
+      
 
 
 
